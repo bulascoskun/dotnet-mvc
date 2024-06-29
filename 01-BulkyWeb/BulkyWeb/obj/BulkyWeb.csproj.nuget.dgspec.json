@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {}
+    "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Bulky\\BulkyWeb\\BulkyWeb.csproj": {
+    "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "C:\\Users\\User\\Desktop\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Bulky\\BulkyWeb\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
