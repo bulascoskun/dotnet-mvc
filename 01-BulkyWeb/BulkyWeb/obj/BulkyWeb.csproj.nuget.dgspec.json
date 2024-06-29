@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
+    "C:\\Users\\elbow\\OneDrive\\Masaüstü\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
+    "C:\\Users\\elbow\\OneDrive\\Masaüstü\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "C:\\Users\\elbow\\OneDrive\\Masaüstü\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\obj\\",
+        "projectPath": "C:\\Users\\elbow\\OneDrive\\Masaüstü\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "packagesPath": "C:\\Users\\elbow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elbow\\OneDrive\\Masaüstü\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\elbow\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
