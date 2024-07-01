@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\elbow\\OneDrive\\Masa\u00FCst\u00FC\\dotnet-mvc\\01-BulkyWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2198501-D555-4C2D-81F4-37D471CE893D}|BulkyWebRazor_Web\\BulkyWebRazor_Web.csproj|c:\\users\\elbow\\onedrive\\masa\u00FCst\u00FC\\dotnet-mvc\\01-bulkyweb\\bulkywebrazor_web\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2198501-D555-4C2D-81F4-37D471CE893D}|BulkyWebRazor_Web\\BulkyWebRazor_Web.csproj|solutionrelative:bulkywebrazor_web\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88202D65-832F-4681-AEA1-C081CAEF1CF7}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\elbow\\onedrive\\masa\u00FCst\u00FC\\dotnet-mvc\\01-bulkyweb\\bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88202D65-832F-4681-AEA1-C081CAEF1CF7}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2198501-D555-4C2D-81F4-37D471CE893D}|BulkyWebRazor_Web\\BulkyWebRazor_Web.csproj|c:\\users\\elbow\\onedrive\\masa\u00FCst\u00FC\\dotnet-mvc\\01-bulkyweb\\bulkywebrazor_web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2198501-D555-4C2D-81F4-37D471CE893D}|BulkyWebRazor_Web\\BulkyWebRazor_Web.csproj|solutionrelative:bulkywebrazor_web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\elbow\\OneDrive\\Masa\u00FCst\u00FC\\dotnet-mvc\\01-BulkyWeb\\BulkyWebRazor_Web\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWebRazor_Web\\Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\elbow\\OneDrive\\Masa\u00FCst\u00FC\\dotnet-mvc\\01-BulkyWeb\\BulkyWebRazor_Web\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "BulkyWebRazor_Web\\Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:32:05.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\elbow\\OneDrive\\Masa\u00FCst\u00FC\\dotnet-mvc\\01-BulkyWeb\\BulkyWebRazor_Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWebRazor_Web\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\elbow\\OneDrive\\Masa\u00FCst\u00FC\\dotnet-mvc\\01-BulkyWeb\\BulkyWebRazor_Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWebRazor_Web\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T16:23:05.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\elbow\\OneDrive\\Masa\u00FCst\u00FC\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\elbow\\OneDrive\\Masa\u00FCst\u00FC\\dotnet-mvc\\01-BulkyWeb\\BulkyWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T16:20:38.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
